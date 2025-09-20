@@ -70,7 +70,7 @@ Olá, me chamo Camila Costa, moro no litoral do Paraná e tenho atualmente 18 an
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center"
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eu-Vitoria&show_icons=true&theme=synthwave)
 
