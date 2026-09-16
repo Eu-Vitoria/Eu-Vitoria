@@ -4,7 +4,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Olá, me chamo Camila Costa, moro no litoral do Paraná e tenho atualmente 18 anos. Finalizei o ensino médio em um colégio civico militar em uma modalidade de ensino técnico em analise e desenvolvimento de sistemas pela plataforma Alura. Estou atualmente cursando Desenvolvimento Full-Stack Python pela EBAC(escola britânica de artes criativas e tecnologia)e estou no segundo semestre de Analise e Desenvolvimento de sistemas pela PUCPR(pontífica universidade católica do paraná).
+Olá, me chamo Camila Costa, moro em Jacareí-SP e tenho atualmente 18 anos. Finalizei o ensino médio em um colégio civico militar em uma modalidade de ensino técnico em analise e desenvolvimento de sistemas pela plataforma Alura. Estou atualmente cursando Desenvolvimento Full-Stack Python pela EBAC(escola britânica de artes criativas e tecnologia)e estou no segundo semestre de Analise e Desenvolvimento de sistemas pela PUCPR(pontífica universidade católica do paraná).
 
 <p align="left">
     <a href="camila.vicosta30@gmail.com">
