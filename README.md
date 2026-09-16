@@ -21,7 +21,7 @@ Olá, me chamo Camila Costa, moro em Jacareí-SP e tenho atualmente 18 anos. Fin
             src="https://custom-icon-badges.demolab.com/badge/-+55 41 98783--6604-E4AAF6?style=for-the-badge&logo=phone&logoColor=purple"
         />
     </a> 
-    <a href="www.linkedin.com/in/camila-vitória-dos-santos-da-costa-390596362">
+    <a href="https://www.linkedin.com/in/camila-vit%C3%B3ria-dos-santos-da-costa-390596362/">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
