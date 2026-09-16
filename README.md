@@ -67,17 +67,6 @@ Olá, me chamo Camila Costa, moro em Jacareí-SP e tenho atualmente 18 anos. Fin
 <br/>
 <br/>
 
-
-### 📊 Estatísticas 
-
-
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eu-Vitoria&show_icons=true&theme=synthwave)
-
-
-
-
-
  <p>
   <img src="https://i.gifer.com/Ve1.gif" width="150"/>
 </p>
